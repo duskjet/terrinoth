@@ -13,6 +13,7 @@ title: Світ Mennara і Realms of Terrinoth
 - [Історія](02_history.html)
 - [Народи](03_peoples.html)
 - [Магія і віра](04_magic_and_faith.html)
+- [Магія в грі](05_magic_in_play.html)
 - [Terrinoth](10_terrinoth.html)
 - [Mistlands](11_mistlands.html)
 - [Aymhelin](12_aymhelin.html)
@@ -25,4 +26,3 @@ title: Світ Mennara і Realms of Terrinoth
 - [Фракції та загрози](90_factions_and_threats.html)
 - [Зачіпки пригод](91_campaign_hooks.html)
 - [Джерела](99_sources.html)
-

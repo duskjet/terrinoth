@@ -10,6 +10,7 @@
 - [02_history.md](02_history.md) - міфи створення, три Darknesses, епохи після Dragon Wars.
 - [03_peoples.md](03_peoples.md) - народи, культури та соціальні образи.
 - [04_magic_and_faith.md](04_magic_and_faith.md) - руни, Verto Magica, віра, духи, бардівська магія.
+- [05_magic_in_play.md](05_magic_in_play.md) - як різні види магії виглядають у сценах і як відігравати магічного персонажа.
 - [10_terrinoth.md](10_terrinoth.md) - Daqan Baronies, Free Cities і внутрішня політика Terrinoth.
 - [11_mistlands.md](11_mistlands.md) - земля Waiqar the Undying і некромантична загроза.
 - [12_aymhelin.md](12_aymhelin.md) - Latari Elves, Lithelin, Bloodwood, Greywood і Deepwood.
@@ -26,4 +27,3 @@
 ## Швидкий тон кампанії
 
 Mennara найкраще працює як heroic fantasy із темною історичною пам'яттю. Світ не є постапокаліптичним, але всюди видно руїни колишньої слави: напівзабуті фортеці, магічні уламки, прокляті землі, міста, що живуть поряд із власними шрамами. Герої не просто шукають скарби. Вони часто стають людьми, які встигають закрити тріщину до того, як через неї пролізе наступна Darkness.
-
